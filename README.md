@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chakshu Tiwadi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src ="![image](https://github.com/user-attachments/assets/2d3592b2-6996-406d-9caa-54e2a2731e6c)">
+<img align="right" alt="coding" width="400" src ="https://github.com/user-attachments/assets/2d3592b2-6996-406d-9caa-54e2a2731e6c">
  
 
 <h3 align="left">Connect with me:</h3>
